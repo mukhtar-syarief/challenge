@@ -1,0 +1,7 @@
+text asli untuk test
+
+jalankan python enkripsi.py 
+
+hasil di output.txt mirip di rahasia.txt
+
+tinggal cari cara gimana membuka rahasianya dengan ngoding
